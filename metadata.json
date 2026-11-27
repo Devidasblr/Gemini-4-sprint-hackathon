@@ -1,0 +1,6 @@
+{
+  "name": "TRUSTFIN AI",
+  "description": "Privacy-First Multi-Agent Financial Intelligence Platform for transaction risk analysis, cash flow intelligence, budgeting insights, and human-controlled financial oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
